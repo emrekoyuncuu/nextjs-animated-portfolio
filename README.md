@@ -115,7 +115,9 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## 📧 Contact
 
-Emre Koyuncu - [linkedin](https://www.linkedin.com/in/emrekoyuncuu/) - emrekoyuncujob@gmail.com
+Emre Koyuncu - [LinkedIn](https://www.linkedin.com/in/emrekoyuncuu/) - emrekoyuncujob@gmail.com
+
+Project Link: [https://github.com/emrekoyuncuu/nextjs-animated-portfolio](https://github.com/emrekoyuncuu/nextjs-animated-portfolio)
 
 ## 🙏 Acknowledgements
 
