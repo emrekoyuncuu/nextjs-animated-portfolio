@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="public/logo.png" alt="Next.js Animated Portfolio Logo" width="200" height="200">
+  <img src="src/app/favicon.ico" alt="Next.js Animated Portfolio Logo" width="200" height="200">
 
   <h1 align="center">Next.js Animated Portfolio</h1>
 
